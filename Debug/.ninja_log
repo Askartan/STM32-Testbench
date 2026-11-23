@@ -1,0 +1,27 @@
+# ninja log v5
+3	437	8167067600724653	D:/Embedded/lesson3/Debug/Obj/main.o	2c2b8db93a8508ca
+763	1504	8169699225725798	D:/Embedded/lesson5/Debug/Exe/project.out	1595b36931eade95
+5	491	8168260231467746	D:/Embedded/lesson4/Debug/Obj/main.o	fe921cd6309135b4
+439	542	8167067601801458	D:/Embedded/lesson3/Debug/Exe/project.out	cedc11fb79f3136c
+493	623	8168260232874168	D:/Embedded/lesson4/Debug/Exe/project.out	fc8e4e4d1ee5ed97
+23	761	8169699218165110	D:/Embedded/lesson5/Debug/Obj/main.o	7ed4f1c0204b4df
+2	240	8170093362516132	D:/Embedded/project/Debug/Obj/main.o	e190740c440808bf
+242	324	8170093363407893	D:/Embedded/project/Debug/Exe/project.out	2b994927c9f25077
+2	232	8170102904828196	D:/Embedded/project/Debug/Obj/main.o	e190740c440808bf
+233	315	8170102905687888	D:/Embedded/project/Debug/Exe/project.out	2b994927c9f25077
+1	178	8171391458231623	D:/Embedded/project/Debug/Obj/app.o	2fa723e0220b527
+13	210	8171391458549252	D:/Embedded/project/Debug/Obj/main.o	e190740c440808bf
+3	71	8171392900694342	D:/Embedded/project/Debug/Obj/app.o	2fa723e0220b527
+14	91	8171392900949547	D:/Embedded/project/Debug/Obj/main.o	e190740c440808bf
+1	163	8171395116233460	D:/Embedded/project/Debug/Obj/main.o	e190740c440808bf
+164	221	8171395116944007	D:/Embedded/project/Debug/Exe/project.out	82f57357ff3e5c80
+2	81	8171396767232930	D:/Embedded/project/Debug/Obj/main.o	e190740c440808bf
+82	140	8171396767707591	D:/Embedded/project/Debug/Exe/project.out	82f57357ff3e5c80
+1	205	8171401850646876	D:/Embedded/project/Debug/Obj/test_app.o	c010c54beb49738d
+1	76	8171402039061989	D:/Embedded/project/Debug/Obj/test_app.o	c010c54beb49738d
+2	82	8171403295249883	D:/Embedded/project/Debug/Obj/test_app.o	c010c54beb49738d
+1	185	8171406717666094	D:/Embedded/project/Debug/Obj/excluded_17458080712988935649.dir/main.o	aaca44e52256039f
+1	71	8171406765530957	D:/Embedded/project/Debug/Obj/app.o	2fa723e0220b527
+13	89	8171406765741322	D:/Embedded/project/Debug/Obj/excluded_17458080712988935649.dir/main.o	aaca44e52256039f
+23	108	8171406765847184	D:/Embedded/project/Debug/Obj/test_app.o	c010c54beb49738d
+1	81	8171407387681319	D:/Embedded/project/Debug/Exe/project.out	9d999770c6bb6b94

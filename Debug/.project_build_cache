@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>D:\Embedded\project\Debug\Exe\project.out</Path>
+            <Output>
+                <Path>D:\Embedded\project\Debug\List\project.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\Embedded\lesson4\Debug\Exe\project.out</Path>
+            <Output>
+                <Path>D:\Embedded\lesson4\Debug\List\project.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\Embedded\lesson5\Debug\Exe\project.out</Path>
+            <Output>
+                <Path>D:\Embedded\lesson5\Debug\List\project.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
