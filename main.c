@@ -1,4 +1,5 @@
 #include "app.h"
+#include "uart.h"
 
 //led
 #define GPIOA_MODER (*(volatile uint32_t *)0x50000000UL)
@@ -42,6 +43,7 @@ int main(void) {
     STK_CSR |= (5UL); //uruchomienie paskudy
     STK_RVR = MILLISECOND;
     
+    uart_init();
     AppState app = {
         .stable_pressed = PRESSED,
         .raw_pressed = PRESSED,
@@ -50,6 +52,10 @@ int main(void) {
         .timer = 0
     };
 
+    uart_send_char('H');
+    uart_send_char('I');
+    uart_send_char('!');
+    uart_send_char('\n');
     while (1) {
         bool pressed = PRESSED;
         
